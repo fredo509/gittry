@@ -12,6 +12,10 @@ body {
 
 }
 
+#form {
+    text-align: center;
+}
+
 .secondtitle{
     text-align: center;
 }
@@ -78,6 +82,7 @@ body {
 
 .mycard{
     display: flex;
+    justify-content: center;
 }
 
 #from{
