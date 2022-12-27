@@ -12,6 +12,10 @@ body {
 
 }
 
+.secondtitle{
+    text-align: center;
+}
+
 #header-img {
     text-align: right;
     font-size: 25px;
@@ -74,4 +78,8 @@ body {
 
 .mycard{
     display: flex;
+}
+
+#from{
+    margin-right: 50%;
 }
