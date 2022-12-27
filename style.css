@@ -78,8 +78,13 @@ body {
 
 .mycard{
     display: flex;
+    justify-content: center;
 }
 
-#from{
-    margin-right: 50%;
+#form  {
+    text-align: center;
+}
+
+.middle{
+    text-align: center;
 }
